@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Lock</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn Off</string>
+</resources>

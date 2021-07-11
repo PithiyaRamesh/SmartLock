@@ -1,0 +1,7 @@
+<device-admin xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+    <uses-policies>
+        <force-lock/>
+    </uses-policies>
+</device-admin>
